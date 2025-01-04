@@ -1,3 +1,4 @@
+
 # Introduction to Infrastructure Automation
 ![Introduction to Infrastructure Automation](2025-Terraform-training\01-introduction-to-iac\01-Diagrams\01-theory-diagrams.png)
 ## Overview
