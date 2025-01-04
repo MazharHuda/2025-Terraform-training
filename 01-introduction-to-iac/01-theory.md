@@ -1,7 +1,6 @@
 
 # Introduction to Infrastructure Automation
-![Introduction to Infrastructure Automation](/2025-Terraform-training/01-introduction-to-iac/01-Diagrams/01-theory-diagrams.png)
-## Overview
+![Introduction to Infrastructure Automation](2025-Terraform-training/01-introduction-to-iac/01-Diagrams/01-theory-diagrams.png)
 Infrastructure as Code (IaC) revolutionizes how we manage and provision infrastructure through machine-readable definition files rather than manual processes or traditional scripts.
 
 ## Learning Objectives
