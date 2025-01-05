@@ -55,6 +55,7 @@ Terraform state is the core mechanism that tracks the relationship between your 
 ```
 
 ### 2. State Storage Options
+![Storage Option)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/02_storage_optionss.png)
 
 #### Local State
 - Default storage on local filesystem
@@ -101,6 +102,7 @@ terraform {
    - Team management
 
 ### 3. State Operations
+![State Operation)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/03_state_operations.png)
 
 #### Basic State Commands
 ```bash
@@ -130,7 +132,7 @@ terraform init -migrate-state
 ```
 
 ### 4. State Locking
-
+![State Locking)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/04_state_locking.png)
 #### Purpose
 - Prevents concurrent state modifications
 - Avoids state file corruption
@@ -219,7 +221,7 @@ terraform workspace select production
 ## Real-World Implementation
 
 ### Case Study: Enterprise State Management
-
+![Enterprise State Management)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/05_enterprise_setup.png)
 #### Scenario
 - Multi-team environment
 - Multiple environments (Dev, Staging, Prod)
