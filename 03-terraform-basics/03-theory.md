@@ -1,4 +1,5 @@
 # Terraform Basics
+![Terraform Basics Concept](/03-terraform-basics/03-diagrams/03-theory-diagrams/terraform_basics_concepts.png)
 
 ## Overview
 This section covers the fundamental concepts of Terraform, including its basic commands, configuration syntax, and core workflows.
