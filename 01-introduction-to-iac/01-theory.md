@@ -33,6 +33,7 @@ Infrastructure as Code is the practice of managing infrastructure through code a
 - **Security**: Standardized security practices
 
 ### 3. IaC Approaches
+![IaC Approaches](/01-introduction-to-iac/01-Diagrams/01-theory-diagrams/traditional_vs_iac_approach.png)
 #### Declarative vs. Imperative
 - **Declarative** (What): Specify desired state
   - Example: Terraform, CloudFormation
