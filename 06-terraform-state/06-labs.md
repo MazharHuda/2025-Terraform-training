@@ -1,5 +1,5 @@
 # Terraform State Management - Labs
-
+![terraform_state_lab)](/06-terraform-state/06-Diagrams/06-labs-diagrams/terraform_state_lab.png)
 ## Lab 1: Basic State Management and Backend Configuration
 ### Duration: 45 minutes
 
