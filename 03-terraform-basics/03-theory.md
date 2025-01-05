@@ -1,6 +1,6 @@
 # Terraform Basics
 ![Terraform Basics Concept](/03-terraform-basics/03-diagrams/03-theory-diagrams/terraform_basics_concepts.png)
-
+![Terraform Workflow)](/03-terraform-basics/03-diagrams/03-theory-diagrams/terraform_workflow.png)
 ## Overview
 This section covers the fundamental concepts of Terraform, including its basic commands, configuration syntax, and core workflows.
 
@@ -109,7 +109,7 @@ resource "aws_instance" "web_server" {
 3. **Resource Configuration**: Key-value pairs that configure the resource
 
 ### Resource Dependencies Explained
-
+![Resource Dependencies)](/03-terraform-basics/03-diagrams/03-theory-diagrams/resource_dependencies.png)
 #### 1. Implicit Dependencies
 Terraform automatically determines dependencies when one resource references another using interpolation expressions:
 
@@ -257,7 +257,7 @@ resource "aws_instance" "example" {
 ```
 
 ## 4. Variables and Outputs
-
+![Variable Types)](/03-terraform-basics/03-diagrams/03-theory-diagrams/variable_types_and_usage.png)
 ### Variable Types
 ```hcl
 # String
@@ -296,6 +296,7 @@ output "instance_ip" {
 ```
 
 ## 5. State Management
+![State Management)](/03-terraform-basics/03-diagrams/03-theory-diagrams/state_management.png)
 
 ### State Basics
 - State file (`terraform.tfstate`)
