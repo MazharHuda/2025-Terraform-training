@@ -1,9 +1,9 @@
 # Setting up Terraform Environment - Labs
 
 ## Lab 1: Basic Environment Setup
-![lab1 basic environment setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_1_3A_basic_environment_setup.png)
-### Duration: 60 minutes
 
+### Duration: 60 minutes
+![lab1 basic environment setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_1_3A_basic_environment_setup.png)
 ### Prerequisites
 - Administrative access to your machine
 - Internet connection
@@ -49,7 +49,7 @@ aws --version
 
 ## Lab 2: Development Environment Configuration
 ### Duration: 90 minutes
-
+![Development Environment Configuration](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_2_3A_development_environment.png)
 ### Steps
 
 #### 1. VS Code Setup
@@ -85,7 +85,7 @@ mkdir -p {environments/{dev,staging,prod},modules,scripts}
 
 ## Lab 3: Backend Configuration Setup
 ### Duration: 60 minutes
-
+![Backend Configuration Setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_3_3A_backend_configuration.png)
 ### Prerequisites
 - Completed Labs 1 and 2
 - AWS account with S3 and DynamoDB permissions
@@ -194,3 +194,4 @@ done
 - Successful initialization
 
 [Continue with more labs...]
+![Workspace Setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_4_3A_workspace_setup.png)
