@@ -37,6 +37,7 @@ provider "aws" {
 ```
 
 ## 2. Understanding Resources
+![ Understanding Resources)](/04-terraform-providers-resources/04-diagrams/04-theory-diagrams/resource_management.png)
 ### 2.1 Resource Blocks
 - Basic building blocks of Terraform
 - Describe infrastructure objects
@@ -67,6 +68,7 @@ resource "provider_type" "resource_name" {
    - Deletion timeouts
 
 ## 3. Provider Features
+![ Provider Features)](/04-terraform-providers-resources/04-diagrams/04-theory-diagrams/provider_features.png)
 ### 3.1 Authentication
 - Static credentials
 - Environment variables
@@ -85,6 +87,7 @@ resource "provider_type" "resource_name" {
 - Version compatibility
 
 ## 4. Resource Dependencies
+![ Resource Dependencies)](/04-terraform-providers-resources/04-diagrams/04-theory-diagrams/resource_dependencies.png)
 ### 4.1 Implicit Dependencies
 ```hcl
 resource "aws_vpc" "main" {
@@ -111,6 +114,7 @@ resource "aws_instance" "example" {
 ```
 
 ## 5. Resource Meta-Arguments
+![ Resource Meta-Arguments)](/04-terraform-providers-resources/04-diagrams/04-theory-diagrams/resource_lifecycle.png)
 ### 5.1 count
 ```hcl
 resource "aws_instance" "server" {
