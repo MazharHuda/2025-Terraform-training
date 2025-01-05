@@ -2,7 +2,7 @@
 
 ## Lab 1: Basic Terraform Commands
 **Duration:** 45 minutes
-
+![Basic Terraform Commands](/03-terraform-basics/03-diagrams/03-labs-diagrams/terraform_basics_lab.png)
 ### Prerequisites
 - AWS CLI configured
 - Terraform installed
