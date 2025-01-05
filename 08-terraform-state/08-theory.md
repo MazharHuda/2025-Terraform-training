@@ -1,5 +1,5 @@
 # Terraform State Management - Theory
-
+![Terraform State Management)](/08-terraform-state/08-Diagrams/08-theory-diagrams/terraform_state_concepts.png)
 ## Overview
 Terraform state is a crucial component that maps real-world resources to your configuration, tracks metadata, and improves performance for large infrastructures.
 
