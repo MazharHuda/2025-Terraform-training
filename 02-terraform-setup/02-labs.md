@@ -136,7 +136,7 @@ aws dynamodb create-table \
 
 ## Lab 4: Environment Workspace Setup
 ### Duration: 45 minutes
-
+![Workspace Setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_4_3A_workspace_setup.png)
 ### Steps
 
 #### 1. Create Environment Configurations
@@ -194,4 +194,3 @@ done
 - Successful initialization
 
 [Continue with more labs...]
-![Workspace Setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_4_3A_workspace_setup.png)
