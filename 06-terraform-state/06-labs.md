@@ -2,7 +2,7 @@
 ![terraform_state_lab)](/06-terraform-state/06-Diagrams/06-labs-diagrams/terraform_state_lab.png)
 ## Lab 1: Basic State Management and Backend Configuration
 ### Duration: 45 minutes
-
+![State Management and Backend Configuration)](/06-terraform-state/06-Diagrams/06-labs-diagrams/generated/lab1_backend_setup.png)
 ### Prerequisites
 - AWS CLI configured
 - Terraform installed
@@ -141,7 +141,7 @@ aws s3 ls s3://terraform-state-<GENERATED_SUFFIX>/lab1/
 
 ## Lab 2: State Operations and Manipulation
 ### Duration: 60 minutes
-
+![ State Operations and Manipulation)](/06-terraform-state/06-Diagrams/06-labs-diagrams/generated/lab2_state_operations.png)
 ### Lab Objectives
 - Practice state manipulation commands
 - Move resources between states
@@ -196,6 +196,7 @@ terraform plan
 
 ## Lab 3: Advanced State Management
 ### Duration: 90 minutes
+![ Advanced State Management)](/06-terraform-state/06-Diagrams/06-labs-diagrams/generated/lab3_workspaces.png)
 
 ### Lab Objectives
 - Implement workspace-based state management
