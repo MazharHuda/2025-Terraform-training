@@ -1,5 +1,5 @@
 # Terraform Modules - Theory
-
+![Terraform Modules)](/07-terraform-modules/07-Diagrams/07-theory-diagrams/terraform_modules_concept.png)
 ## Overview
 Terraform modules are containers for multiple resources that are used together. They help in organizing Terraform code, promoting reusability, and implementing infrastructure patterns consistently across different environments and projects.
 
