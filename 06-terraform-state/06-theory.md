@@ -55,7 +55,7 @@ Terraform state is the core mechanism that tracks the relationship between your 
 ```
 
 ### 2. State Storage Options
-![Storage Option)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/02_storage_optionss.png)
+![Storage Option)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/02_storage_options.png)
 
 #### Local State
 - Default storage on local filesystem
