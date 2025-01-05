@@ -12,7 +12,7 @@ This section covers the fundamental concepts of Terraform, including its basic c
 - Grasp state management basics
 
 ## 1. Terraform Configuration Language (HCL)
-
+![Terraform Configuration Language (HCL)](/03-terraform-basics/03-diagrams/03-theory-diagrams/hcl_configuration_structure.png)
 ### Basic Syntax
 ```hcl
 # Block syntax
