@@ -1,5 +1,5 @@
 # Terraform State Management - Theory
- ![Terraform State Management)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/01_state_overview.png
+![Terraform State Management)](/06-terraform-state/06-Diagrams/06-theory-diagrams/generated/01_state_overview.png)
 ## Overview
 Terraform state is the core mechanism that tracks the relationship between your configuration and the real-world resources it manages. Understanding state management is crucial for maintaining infrastructure effectively, collaborating with teams, and ensuring consistent deployments.
 
