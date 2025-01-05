@@ -1,6 +1,7 @@
 # Setting up Terraform Environment - Labs
 
 ## Lab 1: Basic Environment Setup
+![lab1 basic environment setup](/02-terraform-setup/02-diagrams/02-labs-diagrams/lab_1_3A_basic_environment_setup.png)
 ### Duration: 60 minutes
 
 ### Prerequisites
