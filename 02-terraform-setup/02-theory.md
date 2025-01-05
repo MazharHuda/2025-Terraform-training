@@ -1,5 +1,8 @@
 # Setting up Terraform Environment
 ![Setting up Terraform Environment](/02-terraform-setup/02-diagrams/02-theory-diagrams/terraform_setup_concepts.png)
+![Development Environment](/02-terraform-setup/02-diagrams/02-theory-diagrams/development_environment_setup.png)
+![Terraform Installation](/02-terraform-setup/02-diagrams/02-theory-diagrams/terraform_installation_and_setup.png)
+
 ## Overview
 Setting up a proper Terraform environment is crucial for Infrastructure as Code implementation. This section covers the installation, configuration, and best practices for establishing a robust Terraform development environment.
 
