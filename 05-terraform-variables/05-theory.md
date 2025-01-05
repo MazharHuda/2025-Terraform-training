@@ -1,6 +1,7 @@
 # Terraform Variables and Outputs
 
 ## 1. Introduction to Variables
+![Introduction to Variables)](/05-terraform-variable/05-diagrams/05-theory-diagrams/terraform_variables_concept.png)
 ### 1.1 What are Terraform Variables?
 Variables in Terraform serve as parameters for your infrastructure code, making it more flexible and reusable.
 
