@@ -85,6 +85,7 @@ Infrastructure as Code is the practice of managing infrastructure through code a
 ## Real-World Implementation
 
 ### Case Study 1: Enterprise Migration
+![Enterprise Migration](/01-introduction-to-iac/01-Diagrams/01-theory-diagrams/enterprise_migration_pattern.png)
 #### Scenario
 - Large enterprise with 100+ servers
 - Multiple environments (Dev, QA, Staging, Production)
