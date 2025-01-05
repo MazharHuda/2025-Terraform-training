@@ -1,6 +1,7 @@
 # Terraform Variables - Labs
 
 ## Lab 1: Basic Variable Usage
+![ Basic Variable Usage](\05-terraform-variables\05-diagrams\05-labs-diagrams/lab1_diagram.png)
 ### Objective
 Learn to work with basic input variables and outputs.
 
