@@ -50,6 +50,7 @@ output "instance_ip" {
 - [ ] Outputs displaying correctly
 
 ## Lab 2: Variable Types and Validation
+![ Variable Types and Validation](/05-terraform-variables/05-diagrams/05-labs-diagrams/lab2_diagram.png)
 ### Objective
 Master different variable types and implement validation rules.
 
@@ -97,6 +98,7 @@ variable "instance_tags" {
 - [ ] Maps properly applied
 
 ## Lab 3: Variable Files and Precedence
+![ Variable Files and Precedence](/05-terraform-variables/05-diagrams/05-labs-diagrams/lab3_diagram.png)
 ### Objective
 Understand variable file usage and precedence order.
 
@@ -131,6 +133,7 @@ terraform plan -var-file="prod.tfvars"
 - [ ] Environment variables working
 
 ## Lab 4: Sensitive Variables and Outputs
+![Sensitive Variables and Outputs](/05-terraform-variables/05-diagrams/05-labs-diagrams/lab4_diagram.png)
 ### Objective
 Handle sensitive information securely in Terraform.
 
