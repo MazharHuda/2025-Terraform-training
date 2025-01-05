@@ -1,5 +1,5 @@
 # Terraform Providers and Resources
-![Terraform Provider)](04-terraform-providers-resources\04-diagrams\04-theory-diagrams/terraform_provider_types.png)
+![Terraform Provider)](/04-terraform-providers-resources/04-diagrams/04-theory-diagrams/terraform_provider_types.png)
 ## 1. Introduction to Providers
 
 ### 1.1 What are Providers?
